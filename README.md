@@ -66,7 +66,7 @@ All artwork is distributed under [CC BY-NC-ND 3.0 US](https://creativecommons.or
 - [In Code We Trust](https://tee4it.com/software-development/in-code-we-trust/)
 - [Legacy Code](https://tee4it.com/software-development/legacy-code/)
 - [Fork You](https://tee4it.com/software-development/fork-you/)
-- [GiHub for those who develop alone](https://tee4it.com/software-development/github-for-those-who-develop-alone/)
+- [GitHub for those who develop alone](https://tee4it.com/software-development/github-for-those-who-develop-alone/)
 - [Keep Code Simple](https://tee4it.com/software-development/simply-keep-code-simple/)
 - [Get Naked And Write Code](https://tee4it.com/software-development/get-naked-and-write-code/)
 - [CSS](https://tee4it.com/software-development/css/)
